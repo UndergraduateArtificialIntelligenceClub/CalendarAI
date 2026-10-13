@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+
+# Env files (never commit keys)
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+dist/
+
+# OS and editors
+.DS_Store
+.vscode/
+.idea/
