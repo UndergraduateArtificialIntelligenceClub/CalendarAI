@@ -12,7 +12,7 @@ You need Node, Python 3, and git.
 
 ### 1. Clone
 ```bash
-git clone https://github.com/<uais-org>/calendarai.git
+git clone https://github.com/UndergraduateArtificialIntelligenceClub/CalendarAI.git
 cd calendarai
 ```
 
