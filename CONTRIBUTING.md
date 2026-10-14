@@ -1,8 +1,5 @@
 # How we work
 
-## Your first pull request
-Add your name to the **Team** list in [README.md](README.md) by following the flow below. Use a branch like `docs/add-your-name`, and skip step 1 since there's no issue for this. If someone else's name merged first, you'll get a conflict. That's normal, and [the conflicts section](#if-main-changed-while-you-were-working) below shows how to fix it.
-
 ## The flow
 1. Pick an issue assigned to you on the project board.
 2. Start from the latest main:
