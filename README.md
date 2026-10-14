@@ -1,6 +1,6 @@
 # CalendarAI
 
-A UAIS project: upload your syllabi, see every deadline on one calendar, and find study buddies in your classes.
+A UAIS project
 
 ## Stack
 - Frontend: React + TypeScript (Vite), Tailwind
