@@ -42,10 +42,12 @@ git merge main
 Fix any conflicts, commit, and push again. Stuck? Ask in the team chat.
 
 ## After you pull
-If someone added packages, install them or the app won't start:
+If someone added packages, install them or the app won't start. From the `CalendarAI` folder:
 ```bash
-cd backend && pip install -r requirements.txt    # with your venv active
-cd frontend && npm install
+cd backend
+pip install -r requirements.txt    # with your venv active
+cd ../frontend
+npm install
 ```
 
 ## Rules
