@@ -5,6 +5,8 @@ A UAIS project
 ## Stack
 - Frontend: React + TypeScript (Vite), Tailwind
 - Backend: FastAPI (Python)
+- Auth & Database: Supabase
+- Deployment: Vercel & Render
 
 ## Run it locally
 
