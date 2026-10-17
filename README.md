@@ -51,6 +51,7 @@ npm run dev
 
 ## Team
 - Matthew Wang (project lead)
+- Mark Liu
 
 ## Contributing
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before your first pull request.
