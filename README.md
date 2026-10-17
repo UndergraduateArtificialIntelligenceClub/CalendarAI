@@ -15,6 +15,7 @@ You need Node, Python 3, and git.
 ### 1. Clone
 ```bash
 git clone https://github.com/UndergraduateArtificialIntelligenceClub/CalendarAI.git
+(Already use SSH with GitHub? Clone with `git@github.com:UndergraduateArtificialIntelligenceClub/CalendarAI.git` instead.)
 cd CalendarAI
 ```
 
@@ -51,6 +52,7 @@ npm run dev
 
 ## Team
 - Matthew Wang (project lead)
+- Wasi Abbas
 - Mark Liu
 
 ## Contributing
