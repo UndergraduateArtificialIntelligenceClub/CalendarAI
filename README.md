@@ -54,6 +54,7 @@ npm run dev
 - Matthew Wang (project lead)
 - Wasi Abbas
 - Mark Liu
+- Omer Abdelwahab
 
 ## Contributing
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before your first pull request.
