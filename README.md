@@ -55,6 +55,7 @@ npm run dev
 - Wasi Abbas
 - Mark Liu
 - Omer Abdelwahab
+- Kyle
 - Ruba Abbasi
 
 ## Contributing
