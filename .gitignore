@@ -15,7 +15,3 @@ dist/
 .DS_Store
 .vscode/
 .idea/
-
-# [From Mark] UV pack manager entry
-pyproject.toml
-uv.lock
