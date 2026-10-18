@@ -1,4 +1,4 @@
-# CalendarAI
+# Cohort
 
 A UAIS project
 
