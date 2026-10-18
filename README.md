@@ -16,7 +16,7 @@ You need Node, Python 3, and git.
 ```bash
 git clone https://github.com/UndergraduateArtificialIntelligenceClub/Cohort
 (Already use SSH with GitHub? Clone with `git@github.com:UndergraduateArtificialIntelligenceClub/Cohort` instead.)
-cd CalendarAI
+cd Cohort
 ```
 
 ### 2. Backend (terminal 1)
