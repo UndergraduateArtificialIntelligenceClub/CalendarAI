@@ -14,8 +14,8 @@ You need Node, Python 3, and git.
 
 ### 1. Clone
 ```bash
-git clone https://github.com/UndergraduateArtificialIntelligenceClub/CalendarAI.git
-(Already use SSH with GitHub? Clone with `git@github.com:UndergraduateArtificialIntelligenceClub/CalendarAI.git` instead.)
+git clone https://github.com/UndergraduateArtificialIntelligenceClub/Cohort
+(Already use SSH with GitHub? Clone with `git@github.com:UndergraduateArtificialIntelligenceClub/Cohort` instead.)
 cd CalendarAI
 ```
 
