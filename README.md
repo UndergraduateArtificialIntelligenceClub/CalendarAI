@@ -73,6 +73,17 @@ Every deadline looks like this, in both the frontend ([frontend/src/types.ts](fr
 }
 ```
 
+`POST /parse` and `POST /parse-pdf` return a `ParseResponse`:
+
+```
+{
+  "deadlines": [ ...Deadline objects like the one above... ],
+  "instructor": "Dr. Smith"
+}
+```
+
+`instructor` is `null` when the syllabus doesn't name one.
+
 ## Team
 - Matthew Wang (project lead)
 - Wasi Abbas

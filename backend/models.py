@@ -14,3 +14,9 @@ class Deadline(BaseModel):
     category: Category
     source_text: str             # the exact sentence from the syllabus
     weight: float | None = None  # percent of final grade, e.g. 15. None when unknown
+
+
+# What POST /parse and POST /parse-pdf return
+class ParseResponse(BaseModel):
+    deadlines: list[Deadline]
+    instructor: str | None = None  # e.g. "Dr. Smith". None when the syllabus doesn't say
