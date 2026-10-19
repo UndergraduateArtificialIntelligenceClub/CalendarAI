@@ -1,7 +1,7 @@
 # How we work
 
 ## The flow
-1. Pick an issue assigned to you on the project board.
+1. Pick an open issue and assign yourself to it (right sidebar → Assignees) before you start, so two people don't take the same one.
 2. Start from the latest main:
    ```bash
    git checkout main
@@ -54,6 +54,8 @@ npm install
 - Never commit `.env` files or API keys. This repo is public.
 - One pull request per issue. Keep them small.
 - Run the app locally before opening a pull request.
-- Installed a Python package? From the `backend` folder with your venv active, run `pip freeze > requirements.txt` and commit it.
+- Installed a Python package? Add just that package to `requirements.txt` by hand, pinned to the version you installed (e.g. `pypdf==6.1.0`; `pip show pypdf` tells you the version). Don't run `pip freeze > requirements.txt`, it rewrites the whole file and causes merge conflicts.
 - Installed an npm package? `package.json` updates on its own. Commit it and `package-lock.json`.
+- Conflict in `package-lock.json`? Don't fix it by hand. Take main's version with `git checkout main -- package-lock.json`, run `npm install`, then commit.
+- Building a page? Each page has its own file in `frontend/src/pages/`. Work in your page's file and only touch `App.tsx` to add a new route.
 - Stuck for more than 30 minutes? Ask in the team chat.
