@@ -1,0 +1,23 @@
+CMPUT 174: Introduction to the Foundations of Computation I
+Fall 2026 Course Outline
+Department of Computing Science, University of Alberta
+Instructor: [Department Staff]
+Contact: [cs-undergrad-advising@ualberta.ca]
+
+Course Description:
+CMPUT 174 introduces fundamental principles of programming and problem solving using Python. Topics include abstraction, state, control flow, functions, testing, and algorithmic decomposition.
+
+Assessment Schedule and Weight Distribution:
+
+| Component | Title | Date | Weight | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| Assignment | Assignment 1 | 2026-09-25 | 5% | Assignment 1 is due on Friday, September 25, 2026 at 11:59 PM. |
+| Lab Exam | Lab Exam 1 | 2026-10-09 | 10% | Lab Exam 1 will be conducted during assigned lab slots on October 09, 2026. |
+| Midterm | Midterm Exam | 2026-10-23 | 20% | The Midterm Exam will be held in class on Friday, October 23, 2026. |
+| Assignment | Assignment 2 | 2026-11-06 | 5% | Assignment 2 is due on Friday, November 06, 2026 at 11:59 PM. |
+| Lab Exam | Lab Exam 2 | 2026-11-27 | 10% | Lab Exam 2 will take place in computer lab sections on November 27, 2026. |
+| Quiz | In-class Quizzes | 2026-12-04 | 15% | All weekly in-class quizzes conclude by December 04, 2026. |
+| Final | Final Exam | 2026-12-16 | 35% | The Registrar-scheduled Final Exam will take place on December 16, 2026 at 9:00 AM. |
+
+Late Policy:
+Late assignments will be penalized 20% per day up to 48 hours. No submissions accepted after 48 hours.

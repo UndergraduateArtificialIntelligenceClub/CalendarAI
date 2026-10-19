@@ -1,0 +1,24 @@
+STAT 252: Applied Statistics II
+Winter Term 2026
+University of Alberta
+
+Course Information:
+This course covers hypothesis testing, analysis of variance (ANOVA), simple and multiple linear regression, contingency tables, and non-parametric methods with applications using R/RStudio.
+
+Evaluation Scheme:
+Your final grade will be calculated using the following grading components:
+- Three computer lab assignments (5% each, total 15%)
+- Midterm examination (25%)
+- Applied data analysis project (15%)
+- Final examination (45%)
+
+Deadlines and Important Exam Dates:
+- Lab Assignment 1 (ANOVA and Model Assumptions) must be submitted electronically by Friday, January 30, 2026 at 11:59 PM.
+- Lab Assignment 2 (Multiple Regression Analysis) is due on Friday, February 13, 2026 at 11:59 PM.
+- The in-person Midterm Exam will be administered during regular class hours on Wednesday, March 04, 2026.
+- Lab Assignment 3 (Categorical Data Analysis) is due on Friday, March 20, 2026 at 11:59 PM.
+- The Data Analysis Project report and code files are due on Friday, April 03, 2026 at 5:00 PM.
+- The two-hour Final Exam is scheduled on Friday, April 17, 2026 at 2:00 PM.
+
+Submission Guidelines:
+All assignments and reports must be converted to PDF format and uploaded to eClass.

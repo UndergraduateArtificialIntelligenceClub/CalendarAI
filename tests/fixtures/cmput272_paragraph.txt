@@ -1,0 +1,15 @@
+CMPUT 272: Formal Systems and Logic in Computing Science
+Winter 2026 Course Syllabus
+University of Alberta, Faculty of Science
+
+Overview:
+An introduction to the tools of set theory, logic, and induction as used in computing science.
+
+Grading and Important Dates:
+Evaluation in this course consists of regular problem sets, two in-term midterm exams, and a cumulative final examination.
+
+The homework component includes four substantial problem sets. Problem Set 1 will be distributed during the second week and is due on Friday, January 23, 2026. The second homework assignment, Problem Set 2, must be turned in on Friday, February 06, 2026. Following the reading week break, students will complete Problem Set 3 due on Friday, March 06, 2026. Finally, Problem Set 4 will be submitted on Friday, April 03, 2026. Each of the first three problem sets is worth 6% of your overall mark, whereas the fourth problem set counts for 7%.
+
+There will be two written midterm examinations held during standard lecture periods. Midterm 1 will take place in the lecture hall on Friday, February 13, 2026 and accounts for 20% of the final mark. Midterm 2 is scheduled for Friday, March 20, 2026, also contributing 20% towards the grade.
+
+The course concludes with a three-hour Final Examination on Monday, April 20, 2026, which represents 35% of the total evaluation.

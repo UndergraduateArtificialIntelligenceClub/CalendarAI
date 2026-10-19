@@ -1,0 +1,50 @@
+[
+  {
+    "course": "STAT 252",
+    "title": "Lab Assignment 1",
+    "date": "2026-01-30",
+    "category": "lab",
+    "source_text": "Lab Assignment 1 (ANOVA and Model Assumptions) must be submitted electronically by Friday, January 30, 2026 at 11:59 PM.",
+    "weight": 5.0
+  },
+  {
+    "course": "STAT 252",
+    "title": "Lab Assignment 2",
+    "date": "2026-02-13",
+    "category": "lab",
+    "source_text": "Lab Assignment 2 (Multiple Regression Analysis) is due on Friday, February 13, 2026 at 11:59 PM.",
+    "weight": 5.0
+  },
+  {
+    "course": "STAT 252",
+    "title": "Midterm Exam",
+    "date": "2026-03-04",
+    "category": "midterm",
+    "source_text": "The in-person Midterm Exam will be administered during regular class hours on Wednesday, March 04, 2026.",
+    "weight": 25.0
+  },
+  {
+    "course": "STAT 252",
+    "title": "Lab Assignment 3",
+    "date": "2026-03-20",
+    "category": "lab",
+    "source_text": "Lab Assignment 3 (Categorical Data Analysis) is due on Friday, March 20, 2026 at 11:59 PM.",
+    "weight": 5.0
+  },
+  {
+    "course": "STAT 252",
+    "title": "Data Analysis Project",
+    "date": "2026-04-03",
+    "category": "assignment",
+    "source_text": "The Data Analysis Project report and code files are due on Friday, April 03, 2026 at 5:00 PM.",
+    "weight": 15.0
+  },
+  {
+    "course": "STAT 252",
+    "title": "Final Exam",
+    "date": "2026-04-17",
+    "category": "final",
+    "source_text": "The two-hour Final Exam is scheduled on Friday, April 17, 2026 at 2:00 PM.",
+    "weight": 45.0
+  }
+]

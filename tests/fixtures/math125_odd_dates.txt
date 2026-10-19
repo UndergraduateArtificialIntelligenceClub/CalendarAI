@@ -1,0 +1,23 @@
+MATH 125: Linear Algebra I
+Fall Term 2026
+Department of Mathematical and Statistical Sciences, University of Alberta
+
+Course Overview:
+Systems of linear equations, matrices, determinants, vectors in n-space, dot and cross products, lines and planes, vector spaces, linear transformations, eigenvalues and eigenvectors.
+
+Grading Scheme & Deadlines:
+Online Quiz 1 will test foundational matrix operations and is due 3/10 into the semester on September 18, 2026.
+Written Assignment 1 covering vector spaces must be submitted by Oct. 3rd, 2026.
+The Midterm Exam takes place during Week 7 on Wednesday, October 21, 2026.
+Written Assignment 2 on eigenvalues is due at the end of Week 9 on Friday, November 06, 2026.
+Online Quiz 2 on linear transformations closes on Nov. 20th, 2026.
+The Registrar-scheduled Final Exam will be administered on December 14, 2026.
+
+Grade Breakdown:
+- Online Quiz 1: 5%
+- Written Assignment 1: 10%
+- Midterm Exam: 25%
+- Written Assignment 2: 10%
+- Online Quiz 2: 5%
+- Final Exam: 45%
+Total: 100%

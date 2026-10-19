@@ -1,0 +1,58 @@
+[
+  {
+    "course": "ENGL 102",
+    "title": "Diagnostic Essay",
+    "date": "2026-09-16",
+    "category": "assignment",
+    "source_text": "Wednesday, September 16, 2026: Diagnostic Essay due by 11:59 PM (5% of final grade).",
+    "weight": 5.0
+  },
+  {
+    "course": "ENGL 102",
+    "title": "Close Reading Essay",
+    "date": "2026-10-07",
+    "category": "assignment",
+    "source_text": "Wednesday, October 07, 2026: Close Reading Essay due by 11:59 PM (15% of final grade).",
+    "weight": 15.0
+  },
+  {
+    "course": "ENGL 102",
+    "title": "Midterm Reflection",
+    "date": "2026-10-28",
+    "category": "midterm",
+    "source_text": "Wednesday, October 28, 2026: Midterm Reflection in-class writing assessment (15% of final grade).",
+    "weight": 15.0
+  },
+  {
+    "course": "ENGL 102",
+    "title": "Research Paper Draft",
+    "date": "2026-11-18",
+    "category": "other",
+    "source_text": "Wednesday, November 18, 2026: Research Paper Draft due for instructor review (10% of final grade).",
+    "weight": 10.0
+  },
+  {
+    "course": "ENGL 102",
+    "title": "Peer Review Feedback",
+    "date": "2026-11-25",
+    "category": "assignment",
+    "source_text": "Wednesday, November 25, 2026: Peer Review Feedback workshop submission (5% of final grade).",
+    "weight": 5.0
+  },
+  {
+    "course": "ENGL 102",
+    "title": "Final Research Paper",
+    "date": "2026-12-07",
+    "category": "assignment",
+    "source_text": "Monday, December 07, 2026: Final Research Paper due via eClass (25% of final grade).",
+    "weight": 25.0
+  },
+  {
+    "course": "ENGL 102",
+    "title": "Final Portfolio",
+    "date": "2026-12-15",
+    "category": "final",
+    "source_text": "Tuesday, December 15, 2026: Final Portfolio submission deadline (25% of final grade).",
+    "weight": 25.0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "course": "MATH 125",
+    "title": "Online Quiz 1",
+    "date": "2026-09-18",
+    "category": "quiz",
+    "source_text": "Online Quiz 1 will test foundational matrix operations and is due 3/10 into the semester on September 18, 2026.",
+    "weight": 5.0
+  },
+  {
+    "course": "MATH 125",
+    "title": "Written Assignment 1",
+    "date": "2026-10-03",
+    "category": "assignment",
+    "source_text": "Written Assignment 1 covering vector spaces must be submitted by Oct. 3rd, 2026.",
+    "weight": 10.0
+  },
+  {
+    "course": "MATH 125",
+    "title": "Midterm Exam",
+    "date": "2026-10-21",
+    "category": "midterm",
+    "source_text": "The Midterm Exam takes place during Week 7 on Wednesday, October 21, 2026.",
+    "weight": 25.0
+  },
+  {
+    "course": "MATH 125",
+    "title": "Written Assignment 2",
+    "date": "2026-11-06",
+    "category": "assignment",
+    "source_text": "Written Assignment 2 on eigenvalues is due at the end of Week 9 on Friday, November 06, 2026.",
+    "weight": 10.0
+  },
+  {
+    "course": "MATH 125",
+    "title": "Online Quiz 2",
+    "date": "2026-11-20",
+    "category": "quiz",
+    "source_text": "Online Quiz 2 on linear transformations closes on Nov. 20th, 2026.",
+    "weight": 5.0
+  },
+  {
+    "course": "MATH 125",
+    "title": "Final Exam",
+    "date": "2026-12-14",
+    "category": "final",
+    "source_text": "The Registrar-scheduled Final Exam will be administered on December 14, 2026.",
+    "weight": 45.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "course": "CMPUT 272",
+    "title": "Problem Set 1",
+    "date": "2026-01-23",
+    "category": "assignment",
+    "source_text": "Problem Set 1 will be distributed during the second week and is due on Friday, January 23, 2026.",
+    "weight": 6.0
+  },
+  {
+    "course": "CMPUT 272",
+    "title": "Problem Set 2",
+    "date": "2026-02-06",
+    "category": "assignment",
+    "source_text": "The second homework assignment, Problem Set 2, must be turned in on Friday, February 06, 2026.",
+    "weight": 6.0
+  },
+  {
+    "course": "CMPUT 272",
+    "title": "Midterm 1",
+    "date": "2026-02-13",
+    "category": "midterm",
+    "source_text": "Midterm 1 will take place in the lecture hall on Friday, February 13, 2026 and accounts for 20% of the final mark.",
+    "weight": 20.0
+  },
+  {
+    "course": "CMPUT 272",
+    "title": "Problem Set 3",
+    "date": "2026-03-06",
+    "category": "assignment",
+    "source_text": "Following the reading week break, students will complete Problem Set 3 due on Friday, March 06, 2026.",
+    "weight": 6.0
+  },
+  {
+    "course": "CMPUT 272",
+    "title": "Midterm 2",
+    "date": "2026-03-20",
+    "category": "midterm",
+    "source_text": "Midterm 2 is scheduled for Friday, March 20, 2026, also contributing 20% towards the grade.",
+    "weight": 20.0
+  },
+  {
+    "course": "CMPUT 272",
+    "title": "Problem Set 4",
+    "date": "2026-04-03",
+    "category": "assignment",
+    "source_text": "Finally, Problem Set 4 will be submitted on Friday, April 03, 2026.",
+    "weight": 7.0
+  },
+  {
+    "course": "CMPUT 272",
+    "title": "Final Examination",
+    "date": "2026-04-20",
+    "category": "final",
+    "source_text": "The course concludes with a three-hour Final Examination on Monday, April 20, 2026, which represents 35% of the total evaluation.",
+    "weight": 35.0
+  }
+]

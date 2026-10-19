@@ -1,0 +1,58 @@
+[
+  {
+    "course": "CMPUT 174",
+    "title": "Assignment 1",
+    "date": "2026-09-25",
+    "category": "assignment",
+    "source_text": "Assignment 1 is due on Friday, September 25, 2026 at 11:59 PM.",
+    "weight": 5.0
+  },
+  {
+    "course": "CMPUT 174",
+    "title": "Lab Exam 1",
+    "date": "2026-10-09",
+    "category": "lab",
+    "source_text": "Lab Exam 1 will be conducted during assigned lab slots on October 09, 2026.",
+    "weight": 10.0
+  },
+  {
+    "course": "CMPUT 174",
+    "title": "Midterm Exam",
+    "date": "2026-10-23",
+    "category": "midterm",
+    "source_text": "The Midterm Exam will be held in class on Friday, October 23, 2026.",
+    "weight": 20.0
+  },
+  {
+    "course": "CMPUT 174",
+    "title": "Assignment 2",
+    "date": "2026-11-06",
+    "category": "assignment",
+    "source_text": "Assignment 2 is due on Friday, November 06, 2026 at 11:59 PM.",
+    "weight": 5.0
+  },
+  {
+    "course": "CMPUT 174",
+    "title": "Lab Exam 2",
+    "date": "2026-11-27",
+    "category": "lab",
+    "source_text": "Lab Exam 2 will take place in computer lab sections on November 27, 2026.",
+    "weight": 10.0
+  },
+  {
+    "course": "CMPUT 174",
+    "title": "In-class Quizzes",
+    "date": "2026-12-04",
+    "category": "quiz",
+    "source_text": "All weekly in-class quizzes conclude by December 04, 2026.",
+    "weight": 15.0
+  },
+  {
+    "course": "CMPUT 174",
+    "title": "Final Exam",
+    "date": "2026-12-16",
+    "category": "final",
+    "source_text": "The Registrar-scheduled Final Exam will take place on December 16, 2026 at 9:00 AM.",
+    "weight": 35.0
+  }
+]
