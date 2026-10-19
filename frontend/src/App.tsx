@@ -10,10 +10,14 @@ import Upload from "./pages/Upload";
 const links = [
   { to: "/", label: "Calendar" },
   { to: "/upload", label: "Upload" },
-  { to: "/login", label: "Login" },
 ];
 
 function App() {
+  // Logged out: show only the login page, no nav. Logged in: show the app.
+  // Placeholder until auth is built in #31, which replaces this with the Supabase session.
+  const loggedIn = true;
+  if (!loggedIn) return <Login />;
+
   return (
     <BrowserRouter>
       <nav className="flex items-center gap-4 border-b px-6 py-3">
@@ -32,7 +36,6 @@ function App() {
       <Routes>
         <Route path="/" element={<Calendar />} />
         <Route path="/upload" element={<Upload />} />
-        <Route path="/login" element={<Login />} />
       </Routes>
     </BrowserRouter>
   );
