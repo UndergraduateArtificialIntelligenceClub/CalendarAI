@@ -50,6 +50,29 @@ cd frontend
 npm run dev
 ```
 
+## Data shape
+Every deadline looks like this, in both the frontend ([frontend/src/types.ts](frontend/src/types.ts)) and the backend ([backend/models.py](backend/models.py)). If you change it, change both files in the same pull request.
+
+| Field | Type | Example |
+|---|---|---|
+| `course` | string | `"CMPUT 174"` |
+| `title` | string | `"Assignment 2"` |
+| `date` | string, `YYYY-MM-DD` | `"2026-10-15"` |
+| `category` | `assignment`, `lab`, `quiz`, `midterm`, `final`, or `other` | `"assignment"` |
+| `source_text` | string, the exact sentence from the syllabus | `"Assignment 2 is due October 15."` |
+| `weight` | number or null (optional), percent of final grade | `15` |
+
+```json
+{
+  "course": "CMPUT 174",
+  "title": "Assignment 2",
+  "date": "2026-10-15",
+  "category": "assignment",
+  "source_text": "Assignment 2 is due October 15 and is worth 15% of your final grade.",
+  "weight": 15
+}
+```
+
 ## Team
 - Matthew Wang (project lead)
 - Wasi Abbas
