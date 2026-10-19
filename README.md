@@ -57,6 +57,7 @@ npm run dev
 - Omer Abdelwahab
 - Kyle
 - Ruba Abbasi
+- Alice Yin
 
 ## Contributing
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before your first pull request.
