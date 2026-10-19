@@ -2,15 +2,14 @@ import { BrowserRouter, NavLink, Route, Routes } from "react-router";
 import { APP_NAME } from "./lib/config";
 import Calendar from "./pages/Calendar";
 import Login from "./pages/Login";
-import Review from "./pages/Review";
 import Upload from "./pages/Upload";
 
 // Each page lives in its own file in src/pages so pairs don't edit the same file.
+// Popups (like the review step after upload) live in src/components.
 // Add new pages here and in the nav below.
 const links = [
   { to: "/", label: "Calendar" },
   { to: "/upload", label: "Upload" },
-  { to: "/review", label: "Review" },
   { to: "/login", label: "Login" },
 ];
 
@@ -33,7 +32,6 @@ function App() {
       <Routes>
         <Route path="/" element={<Calendar />} />
         <Route path="/upload" element={<Upload />} />
-        <Route path="/review" element={<Review />} />
         <Route path="/login" element={<Login />} />
       </Routes>
     </BrowserRouter>
