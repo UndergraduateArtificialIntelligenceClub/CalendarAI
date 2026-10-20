@@ -104,6 +104,7 @@ Every deadline looks like this, in both the frontend ([frontend/src/types.ts](fr
 - Kyle
 - Ruba Abbasi
 - Alice Yin
+- Namish Moduga
 
 ## Contributing
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before your first pull request.
