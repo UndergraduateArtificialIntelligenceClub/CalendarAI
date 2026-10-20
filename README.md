@@ -10,16 +10,28 @@ A UAIS project
 
 ## Run it locally
 
-You need Node, Python 3, and git.
+You need Node 22 or newer (check with `node -v`), Python 3.10 or newer, and git.
 
 ### 1. Clone
 ```bash
 git clone https://github.com/UndergraduateArtificialIntelligenceClub/Cohort
-(Already use SSH with GitHub? Clone with `git@github.com:UndergraduateArtificialIntelligenceClub/Cohort` instead.)
 cd Cohort
 ```
+Already use SSH with GitHub? Clone with `git@github.com:UndergraduateArtificialIntelligenceClub/Cohort` instead.
 
-### 2. Backend (terminal 1)
+### 2. Env files
+Copy the two example files. The copies are where your keys go, and git ignores them so they never get committed.
+```bash
+cp backend/.env.example backend/.env
+cp frontend/.env.example frontend/.env
+```
+- `GEMINI_API_KEY` (backend): make your own free key at [Google AI Studio](https://aistudio.google.com/apikey). Only needed for parsing work.
+- `SUPABASE_*` (both files): ask the project lead on Discord. They're in Supabase under Project Settings → API. Only needed for database and login work.
+- Never paste keys into code, issues, PRs or public channels. This repo is public.
+
+The app runs without any keys filled in. You only need the ones for the issue you're working on.
+
+### 3. Backend (terminal 1)
 ```bash
 cd backend
 python3 -m venv venv              # Windows: python -m venv venv
@@ -28,7 +40,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-### 3. Frontend (terminal 2)
+### 4. Frontend (terminal 2)
 ```bash
 cd frontend
 npm install
