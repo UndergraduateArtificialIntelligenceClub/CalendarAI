@@ -10,3 +10,9 @@ export type Deadline = {
   source_text: string; // the exact sentence from the syllabus
   weight?: number | null; // percent of final grade, e.g. 15. The backend sends null when unknown
 };
+
+// What POST /parse and POST /parse-pdf return
+export type ParseResponse = {
+  deadlines: Deadline[];
+  instructor: string | null; // e.g. "Dr. Smith". null when the syllabus doesn't say
+};
